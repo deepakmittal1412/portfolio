@@ -6,4 +6,3 @@ To run this project
 Import this project in Pycharm and run following commands  
 -  python manage.py collectstatic
 -  python manage.py runserver
-  
